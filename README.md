@@ -9,13 +9,13 @@ A WinForms desktop tool I built to calculate position size and risk/reward for a
 4. Check the **Risk Scenarios** table for different risk % levels
 5. Click **Export CSV** to save the scenario table
 
-## Screenshots (in the same order)
+## App preview (in order)
 
-**Main UI**
-![Main UI](screenshots/UI.png)
+**UI**
+![UI](screenshots/UI.png)
 
-**Example CSV output**
-![Example CSV output](screenshots/csv_output.png)
+**CSV export**
+![CSV export](screenshots/csv_output.png)
 
 ## What’s included
 - Position sizing based on account balance, risk % and stop distance
