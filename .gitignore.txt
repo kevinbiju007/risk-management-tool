@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+*.pdb
+*.dll
+*.exe
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Exported files (your app exports CSV)
+*.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
